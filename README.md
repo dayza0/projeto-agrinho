@@ -10,6 +10,6 @@
 ---
 #Estrutura do Projeto
 meu-site-fluxo/
-├── index.html # Página principal do site
-├── style.css # Estilo do site com tema azul
-└── imagens/ # Pasta com imagens usadas nas seções
+- index.html # Página principal do site
+- style.css # Estilo do site com tema azul
+- imagens/ # Pasta com imagens usadas nas seções

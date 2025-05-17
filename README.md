@@ -1,6 +1,6 @@
 #Fluxo de Pessoas, Bens e Serviços
 
-É um site simples e educativo desenvolvido com **HTML** e **CSS**, com o objetivo de explicar de forma clara e visual os conceitos de *fluxo de pessoas, bens e serviços* entre as áreas *rurais e urbanas*.
+É um site simples e educativo desenvolvido com **HTML** e **CSS**, com o objetivo de explicar de forma clara e visual os conceitos de **fluxo de pessoas, bens e serviços** entre as áreas **rurais e urbanas**.
 ---
 #Objetivos
 

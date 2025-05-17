@@ -6,7 +6,7 @@
 
 - Apresentar os tipos de fluxos existentes entre o campo e a cidade.
 - Explicar com exemplos reais como esses fluxos impactam a sociedade.
-- Criar uma estrutura de site clara, visual e de fácil navegação para estudantes.
+- Criar uma estrutura de site clara, visual e de fácil navegação.
 ---
 #Estrutura do Projeto
 meu-site-fluxo/
